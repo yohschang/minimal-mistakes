@@ -12,14 +12,20 @@ main:
   - 
     title: "other work"
 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+docs:
+docs: 
+  - 
+    children: 
+      - 
+        title: "Quick-Start Guide"
+      - 
+        title: Structure
+      - 
+        title: Installation
+      - 
+        title: Upgrading
+    title: "Python project"
+
   
 # docs:
 #   - title: "Getting Started"
