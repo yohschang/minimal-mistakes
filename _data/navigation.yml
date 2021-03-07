@@ -13,8 +13,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-#   docs:
-#     - title: Getting Started
-#      children:
-#       - title: "Quick-Start Guide"
+  docs:
+    - title: Getting Started
+     children:
+      - title: "Quick-Start Guide"
 #         url: /docs/quick-start-guide/
