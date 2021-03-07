@@ -6,26 +6,37 @@ main:
   -
     title: "Python project"
     url: /pyproject/
+  -
+    title: "Other research projects"
   - 
-    title: "CUDA project"
-  - 
-    title: "Java project"
-  - 
-    title: "other work"
+    title: "HOW TO"
+
 
 docs: 
   - 
-    title: Python project
+    title: Deep learning
     children: 
       - 
-        title: "Quick-Start Guide"
+        title: "Segmentation"
         url: /docs/proja/
       - 
-        title: "Structure"
+        title: "Classification"
       - 
-        title: "Installation"
+        title: "VAE, GAN and DANN implementation"
       - 
-        title: "Upgrading"
+        title: "fewshot learning implementation"
+  -
+    title: QPI
+    children: 
+      - 
+        title: "Phase retrival"
+        url: /docs/proja/
+      - 
+        title: "Numerical refocus"
+      - 
+        title: "Zernike fitting"
+      - 
+        title: "3D reconstruction
     
 
   
