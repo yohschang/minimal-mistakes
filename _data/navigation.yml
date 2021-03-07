@@ -1,16 +1,3 @@
-# main links
-# main:
-# - title: "About me"
-# #  description: 'Tell you who I am'
-# #  url: /docs/quick-start-guide/
-# - title: "Python project"
-# # url: /docs/quick-start-guide/  
-# - title: "CUDA project"
-# #   url: /docs/quick-start-guide/  
-# - title: "Java project"
-# #   url: /docs/quick-start-guide/
-# - title: "other work"
-# #   url: /docs/quick-start-guide/
 main: 
   - 
     title: "About me"
