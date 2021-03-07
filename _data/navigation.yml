@@ -22,7 +22,7 @@ others:
     children: 
       - 
         title: "cuda"
-        url: /others/cuda/
+        url: /docs/proja/
 
 docs: 
   - 
