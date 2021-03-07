@@ -4,12 +4,11 @@ layout: single
 excerpt: "things about me"
 sitemap: true
 permalink: /about/
+
 sidebar: 
-  - 
-    text: "Some text here."
+  - text: "box2"
     title: Title
-  - 
-    text: "More text here."
+  - text: "box1"
     title: "Another Title"
 
 
