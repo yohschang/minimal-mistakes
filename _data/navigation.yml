@@ -1,15 +1,20 @@
 main: 
   - 
     title: "About me"
-    description: "Tell you who I am"
+    description: "The story of my life"
     url: /about/
   -
     title: "Python project"
+    description: "Python projects I have done"
     url: /pyproject/
   -
     title: "Other research projects"
+    description: "Thats how I waste my time"
+#     url: /pyproject/
   - 
     title: "HOW TO"
+    description: "Some useless tech"
+    url: /pyproject/
 
 
 docs: 
