@@ -13,9 +13,11 @@
 # #   url: /docs/quick-start-guide/
 main: 
   - 
+    title: "About me"
     description: "Tell you who I am"
-    title: "Python project"
     url: /docs/quick-start-guide/
+  -
+    title: "Python project"
   - 
     title: "CUDA project"
   - 
