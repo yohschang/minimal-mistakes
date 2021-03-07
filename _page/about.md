@@ -1,10 +1,9 @@
 ---
-title: "關於我"
+title: 'about me'
 layout: single
-excerpt: "關於我的大小事"
+excerpt: 'things about me
 sitemap: true
 permalink: /about/
-header:
 sidebar:
   - title: "Title"
     text: "Some text here."
