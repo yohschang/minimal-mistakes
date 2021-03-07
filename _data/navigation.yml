@@ -7,9 +7,9 @@ url: /docs/quick-start-guide/
 # url: /docs/quick-start-guide/  
 - title: "CUDA project"
 #   url: /docs/quick-start-guide/  
-#  -title: "Java project"
+- title: "Java project"
 #   url: /docs/quick-start-guide/
-#  -title: "other work"
+- title: "other work"
 #   url: /docs/quick-start-guide/
 
   # - title: "About"
