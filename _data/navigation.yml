@@ -1,8 +1,8 @@
 # main links
 main:
 - title: "About me"
-# description: 'Tell you who I am'
-# url: /docs/quick-start-guide/
+description: 'Tell you who I am'
+url: /docs/quick-start-guide/
 - title: "Python project"
 # url: /docs/quick-start-guide/  
 - title: "CUDA project"
