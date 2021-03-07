@@ -1,9 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-#     url: /docs/quick-start-guide/
-  - title: "code"
-    
+  - title: "About me"
+  description: 'Tell you who I am'
+#   url: /docs/quick-start-guide/
+  - title: "Python project"
+#   url: /docs/quick-start-guide/  
+  - title: "CUDA project"
+#   url: /docs/quick-start-guide/  
+  - title: "Java project"
+#   url: /docs/quick-start-guide/
+  - title: "other work"
+#   url: /docs/quick-start-guide/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -13,8 +21,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-docs:
-  - title: "Getting Started"
-   children:
-  - title: "Quick-Start Guide"
+# docs:
+#   - title: "Getting Started"
+#    children:
+#   - title: "Quick-Start Guide"
 #         url: /docs/quick-start-guide/
