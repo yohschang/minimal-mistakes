@@ -5,6 +5,7 @@ main:
     url: /about/
   -
     title: "Python project"
+    url: /pyproject/
   - 
     title: "CUDA project"
   - 
