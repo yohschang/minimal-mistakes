@@ -30,7 +30,7 @@ docs:
     children: 
       - 
         title: "Segmentation"
-        url: /docs/proja/
+        url: /others/cuda/
       - 
         title: "Classification"
       - 
