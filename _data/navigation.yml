@@ -1,11 +1,11 @@
 # main links
 main:
 - title: "About me"
-description: 'Tell you who I am'
-url: /docs/quick-start-guide/
--title: "Python project"
-url: /docs/quick-start-guide/  
-#  -title: "CUDA project"
+# description: 'Tell you who I am'
+# url: /docs/quick-start-guide/
+- title: "Python project"
+# url: /docs/quick-start-guide/  
+- title: "CUDA project"
 #   url: /docs/quick-start-guide/  
 #  -title: "Java project"
 #   url: /docs/quick-start-guide/
