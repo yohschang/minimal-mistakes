@@ -10,7 +10,7 @@ main:
   -
     title: "Other research projects"
     description: "Thats how I waste my time"
-#     url: /pyproject/
+    url: /otherproj/
   - 
     title: "HOW TO"
     description: "Some useless tech"
@@ -19,6 +19,10 @@ main:
 others:
   -
     title : CUDA
+    children: 
+      - 
+        title: "cuda"
+        url: /others/cuda/
 
 docs: 
   - 
