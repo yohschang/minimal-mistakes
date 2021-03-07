@@ -2,7 +2,7 @@ main:
   - 
     title: "About me"
     description: "Tell you who I am"
-    url: /_page/about/
+    url: /about/
   -
     title: "Python project"
   - 
