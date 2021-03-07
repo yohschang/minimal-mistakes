@@ -22,9 +22,9 @@ docs:
       - 
         title: "Classification"
       - 
-        title: "VAE, GAN and DANN implementation"
+        title: "VAE, GAN and DANN"
       - 
-        title: "fewshot learning implementation"
+        title: "fewshot learning"
   -
     title: QPI
     children: 
