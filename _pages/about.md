@@ -1,6 +1,8 @@
 --- 
-excerpt: "things about me"
+title: "about me"
 layout: single
+excerpt: "things about me"
+sitemap: true
 permalink: /about/
 sidebar: 
   - 
@@ -9,8 +11,7 @@ sidebar:
   - 
     text: "More text here."
     title: "Another Title"
-sitemap: true
-title: "about me"
+
 
 ---
 
