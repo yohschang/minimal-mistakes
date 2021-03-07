@@ -30,13 +30,13 @@ docs:
     children: 
       - 
         title: "Phase retrival"
-        url: /docs/proja/
+        
       - 
         title: "Numerical refocus"
       - 
         title: "Zernike fitting"
       - 
-        title: "3D reconstruction
+        title: "3D reconstruction"
     
 
   
