@@ -5,6 +5,12 @@ excerpt: "關於我的大小事"
 sitemap: true
 permalink: /about/
 header:
-  image: /assets/images/profile_header.jpg
-  caption: "滿月圓瀑布"
+sidebar:
+  - title: "Title"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 ---
+
+## hihi
