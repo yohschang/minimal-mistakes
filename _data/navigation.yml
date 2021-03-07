@@ -1,15 +1,15 @@
 # main links
 main:
- - title: "About me"
+- title: "About me"
 #  description: 'Tell you who I am'
 #  url: /docs/quick-start-guide/
- - title: "Python project"
+- title: "Python project"
 # url: /docs/quick-start-guide/  
- - title: "CUDA project"
+- title: "CUDA project"
 #   url: /docs/quick-start-guide/  
- - title: "Java project"
+- title: "Java project"
 #   url: /docs/quick-start-guide/
- - title: "other work"
+- title: "other work"
 #   url: /docs/quick-start-guide/
 
   # - title: "About"
