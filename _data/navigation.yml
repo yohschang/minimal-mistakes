@@ -14,8 +14,11 @@ main:
   - 
     title: "HOW TO"
     description: "Some useless tech"
-    url: /pyproject/
+    url: /howto/
 
+others:
+  -
+    title : CUDA
 
 docs: 
   - 
