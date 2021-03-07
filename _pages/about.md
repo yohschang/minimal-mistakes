@@ -7,7 +7,7 @@ permalink: /about/
 
 sidebar: 
   - text: "box2"
-    title: Title
+    title: "Title"
   - text: "box1"
     title: "Another Title"
 
