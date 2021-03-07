@@ -2,7 +2,7 @@ main:
   - 
     title: "About me"
     description: "Tell you who I am"
-    url: /docs/quick-start-guide/
+#     url: /docs/quick-start-guide/
   -
     title: "Python project"
   - 
@@ -14,6 +14,7 @@ main:
 
 docs: 
   - 
+    title: Python project
     children: 
       - 
         title: "Quick-Start Guide"
@@ -23,7 +24,7 @@ docs:
         title: Installation
       - 
         title: Upgrading
-    title: "Python project"
+    
 
   
 # docs:
