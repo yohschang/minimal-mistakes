@@ -42,7 +42,7 @@ pdocs:
     children: 
       - 
         title: "Segmentation"
-        url: https://github.com/yohschang/minimal-mistakes/blob/master/_pdocs/segmentation/
+        url: /docs/segmentation/
       - 
         title: "Classification"
       - 
