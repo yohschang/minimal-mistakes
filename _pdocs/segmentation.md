@@ -90,9 +90,9 @@ Above image shows the process of pridiction using trained model. the whole prece
 
 ---
 ### Reference
-vgg : https://github.com/chongwar/vgg16-pytorch
-ASL : https://github.com/Alibaba-MIIL/ASL
-fcn32 : https://github.com/sairin1202/fcn32-pytorch
+- vgg : https://github.com/chongwar/vgg16-pytorch
+- ASL : https://github.com/Alibaba-MIIL/ASL
+- fcn32 : https://github.com/sairin1202/fcn32-pytorch
 
 
 ## ICnet
