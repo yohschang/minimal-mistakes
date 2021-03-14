@@ -12,7 +12,7 @@ sidebar:
 Here I listed the projects I've done or still working on using python, check out the side bar on th left for details, also you can link to my github to get anything the can help you. 
 
 #### Deep learning
-  - [Segmentation <fcn , ICnet>](/docs/segmentation/)
+  - [Segmentation <fcn , ICnet>]()
   - [Classification <multilabel_classification>]()
   - [VAE, GAN and DANN]()
   - [Fewshot learning]()
