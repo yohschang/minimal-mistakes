@@ -13,7 +13,7 @@ sidebar:
 
 
 ---
-## About me 
+
 I am Yu Hsiang, graduate studentin National Taiwan University, Taipei, Taiwan. This site is currently build for collect all the project I've done. 
 
 ## Education
@@ -40,6 +40,7 @@ I am Yu Hsiang, graduate studentin National Taiwan University, Taipei, Taiwan. T
 
 ## Skills
 > Check out other pages above for details of following projects
+
 - Programming 
     - python 
       - Deep learning
