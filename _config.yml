@@ -285,7 +285,7 @@ defaults:
  #_pdocs
   - scope:
       path: ""
-      type: pdocs
+      type: _pdocs
     values:
       layout: single
       read_time: false
