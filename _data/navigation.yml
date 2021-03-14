@@ -22,7 +22,7 @@ odocs:
     children: 
       - 
         title: "cuda"
-        url: /others/cuda/
+#         url: /others/cuda/
 
 pdocs: 
   - 
