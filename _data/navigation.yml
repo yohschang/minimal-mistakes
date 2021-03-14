@@ -42,10 +42,10 @@ docs:
     children: 
       - 
         title: "Segmentation"
-        url: /docs/segmentation/
+        url: /_pdocs/test/
       - 
-        title: "Classification11"
-        url: /pdocs/segmentation/
+        title: "Classification1123"
+        url: /docs/test/
       - 
         title: "VAE, GAN and DANN"
       - 
