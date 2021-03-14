@@ -13,7 +13,7 @@ sidebar:
 ### Implementation   
 - Model : VGG16/resnet18 + fcn
     - VGG16 FCN layer : 
-        ```python = 
+        ```python  
         class fcn32(nn.Module):
             def __init__(self):
                 super().__init__()
@@ -35,7 +35,7 @@ sidebar:
                 return upscore[:,:,16:(16+x_size[2]),16:(16+x_size[3])]
         ```
     - Resnet FCN layer : 
-        ```python = 
+        ```python  
         class fcn(nn.Module):
             def __init__(self):
                 super().__init__()
@@ -122,9 +122,9 @@ inorder to build a [faster](#Few-tips-to-improve-frame-rate) sementic segmentati
 - ICnet : https://arxiv.org/pdf/1704.08545.pdf
 
 ## Few tips to improve frame rate
-::: info 
+```
 Since most time cost by loading data, following are few ways to reduce time consume of data loading
-:::
+```
 - Data should be **storage in SSD** or the hard drive that runs pythn. Data in ssd can lead to 2x faster then in HDD
 
 - **Use OPENCV2** instead of PIL for image reading and simple transformation (easy to implement while loading test data which has no need to do complex transform)
