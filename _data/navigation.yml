@@ -42,7 +42,7 @@ pdocs:
     children: 
       - 
         title: "Segmentation"
-        url: /docs/segmentation/
+        url: /pdocs/segmentation/
       - 
         title: "Classification"
       - 
