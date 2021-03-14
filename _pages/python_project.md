@@ -13,7 +13,7 @@ Here I listed the projects I've done or still working on using python, check out
 
 #### Deep learning
   - [Segmentation <fcn , ICnet>]()
-  - [Classification <multilabel_classification>]()
+  - [Classification]()
   - [VAE, GAN and DANN]()
   - [Fewshot learning]()
  
