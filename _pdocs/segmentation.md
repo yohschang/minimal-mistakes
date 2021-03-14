@@ -1,6 +1,6 @@
 ---
 title: "Semantic segmentation"
-permalink: /pdocs/segmentation/
+permalink: /_pdocs/segmentation/
 excerpt: "segmentation"
 
 
