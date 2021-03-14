@@ -23,6 +23,16 @@ odocs:
       - 
         title: "cuda"
 #         url: /others/cuda/
+  -
+    title : Arduino
+      -
+        title: "Syringe pump"
+#         url: /others/cuda/
+  -
+    title : JAVA
+      -
+        title: "still learning"
+#         url: /others/cuda/
 
 pdocs: 
   - 
