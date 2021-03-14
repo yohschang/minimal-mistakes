@@ -10,7 +10,6 @@ sidebar:
 
 ---
 Other programming language and some research project, try to improve myself
-11
 
 - [CUDA]()
 - [JAVA]()
