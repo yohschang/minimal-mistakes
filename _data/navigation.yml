@@ -16,7 +16,7 @@ main:
     description: "Some useless tech"
     url: /howto/
 
-others:
+odocs:
   -
     title : CUDA
     children: 
