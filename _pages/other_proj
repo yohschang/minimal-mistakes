@@ -1,11 +1,9 @@
----
-title: "other projects"
-layout: single
+--- 
 excerpt: "few projects"
-sitemap: true
+layout: single
 permalink: /otherproject/
-
-sidebar:
-  nav: "pdocs"
+sidebar: 
+  nav: pdocs
+title: "other projects"
 
 ---
