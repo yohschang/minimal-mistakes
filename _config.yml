@@ -267,6 +267,14 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  pdocs:
+    output: true
+    permalink: /:collection/:path/
+  odocs:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -285,7 +293,7 @@ defaults:
  #_pdocs
   - scope:
       path: ""
-      type: _pdocs
+      type: pdocs
     values:
       layout: single
       read_time: false
