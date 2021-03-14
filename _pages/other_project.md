@@ -9,7 +9,6 @@ sidebar:
   nav: "odocs"
 
 ---
-
 Other programming language and some research project, try to improve myself
 
 - [CUDA]()
