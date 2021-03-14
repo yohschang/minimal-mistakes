@@ -14,14 +14,13 @@ sidebar:
 
 ---
 
-I am Yu Hsiang, graduate studentin National Taiwan University, Taipei, Taiwan. This site is currently build for collect all the project I've done. 
+I am Yu Hsiang, a graduate student at National Taiwan University, Taipei, Taiwan. This site is currently built to collect all the projects I’ve done. 
 
 ## Education
 - National Tsing Hua University <2015~2019>
   _Department of Biomedical Engineering and Environmental sciences_
   - Cell biology
   - Biosensor
- 
 - Zhejiang University <2017.7~2017.8>
   _Department of Biomedical Engineering_
   - **Laboratory  exchange student**
@@ -39,16 +38,16 @@ I am Yu Hsiang, graduate studentin National Taiwan University, Taipei, Taiwan. T
 
 
 ## Skills
-> Check out other pages above for details of following projects
+> Check out other pages above for details of the following projects
 
 - Programming 
     - python 
       - Deep learning
-      - computer vision
-      - cupy
-      - signal processing
+      - Computer vision
+      - CuPy
+      - Signal processing
     - CUDA 
-      - Basic kernal buiding for cupy and c++
+      - Basic kernel building for CuPy and c++ execution
     - Java
       - Just start learning
 ~~Move toward the goal of 10 grand per year~~
