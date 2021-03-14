@@ -44,8 +44,8 @@ docs:
         title: "Segmentation"
         url: /py_segmentation/
       - 
-        title: "Classification"
-        url: /docs/proja/
+        title: "Classification111"
+        url: /pdocs/test/
       - 
         title: "VAE, GAN and DANN"
       - 
