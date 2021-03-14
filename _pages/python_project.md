@@ -16,16 +16,18 @@ Here I listed the projects I've done or still working on using python, check out
   - [Classification]()
   - [VAE, GAN and DANN]()
   - [Fewshot learning]()
+ 
 #### Algorithm for QPI and Computer vision
   - [Phase retrival]()
   - [Numerical refocus]()
   - [Zernike fitting]()
   - [3D reconstruction]()
+
 #### Signal processing
   - [Signal process]()
 
 #### Simple algorithm
-  - [pretty simple]
+  - [pretty simple]()
 
 Feel free to leave a comment
 
