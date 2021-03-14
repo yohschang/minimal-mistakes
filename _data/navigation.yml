@@ -42,9 +42,9 @@ docs:
     children: 
       - 
         title: "Segmentation"
-        url: /py_segmentation/
+        url: /pdocs/segmentation/
       - 
-        title: "Classification111"
+        title: "Classification"
         url: /pdocs/test/
       - 
         title: "VAE, GAN and DANN"
