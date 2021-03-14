@@ -6,6 +6,6 @@ sitemap: true
 permalink: /pyproject/
 
 sidebar:
-  nav: "docs"
+  nav: "pdocs"
 
 ---
