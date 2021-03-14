@@ -63,8 +63,9 @@ sidebar:
 - Then turn bbox data into binary mask (sample and background)
 
 ### Result
-```!
-In this project I assume asymmertric loss would perfomed better since sp and bg pixel considerable disparity 
+```
+In this project I assume asymmertric loss would perfomed 
+better since sp and bg pixel considerable disparity 
 ```
 
 - Use IoU and pixel accuracy to scored the performence  
@@ -79,8 +80,9 @@ In this project I assume asymmertric loss would perfomed better since sp and bg 
      - Mean IoU : 0.832
 
 ![](https://i.imgur.com/qvivuOH.png)
-```!
-Above image shows the process of pridiction using trained model. the whole precell cost around 0.158 sec
+```
+Above image shows the process of pridiction using trained 
+model. the whole precell cost around 0.158 sec
 ```
 
 
@@ -120,7 +122,8 @@ inorder to build a [faster](#Few-tips-to-improve-frame-rate) sementic segmentati
 
 ## Few tips to improve frame rate
 ```
-Since most time cost by loading data, following are few ways to reduce time consume of data loading
+Since most time cost by loading data, following are 
+few ways to reduce time consume of data loading
 ```
 - Data should be **storage in SSD** or the hard drive that runs pythn. Data in ssd can lead to 2x faster then in HDD
 
