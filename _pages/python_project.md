@@ -26,4 +26,5 @@ Here I organized the projects I've done or still working on using python, check 
 #### Simple algorithm
 
 Feel free to leave a comment
-~~Wait until find out how to open comment function~~
+
+###### ~~Wait until find out how to open comment function~~
