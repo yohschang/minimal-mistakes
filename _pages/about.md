@@ -6,10 +6,10 @@ sitemap: true
 permalink: /about/
 
 sidebar: 
-  - text: "box2"
-    title: "Title"
-  - text: "box1"
-    title: "Another Title"
+  - text: "No gift for you"
+    title: "Hey you"
+  - text: "This widget looks cool ~"
+    title: "Don't know what to put"
 
 
 ---
