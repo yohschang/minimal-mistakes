@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 
 ---
-##  Deep learning for interferogram segmentation using [FCN](#FCN) and [ICnet](#ICnet)
+##  Deep learning for interferogram segmentation using [FCN](#fcn) and [ICnet](#icnet)
 ## FCN
 ### Implementation   
 - Model : VGG16/resnet18 + fcn
@@ -96,7 +96,7 @@ ___
 
 ## ICnet
 
-inorder to build a [faster](#Few-tips-to-improve-frame-rate) sementic segmentation program, I choose ICnet(image cascade network) to implement.
+inorder to build a [faster](#few-tips-to-improve-frame-rate) sementic segmentation program, I choose ICnet(image cascade network) to implement.
 
 ### Model
 - Basic ICnet model and loss function from  https://github.com/liminn/ICNet-pytorch
