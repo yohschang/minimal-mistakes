@@ -9,7 +9,7 @@ sidebar:
   - text: "No gift for you"
     title: "Hey you"
   - text: "This widget looks cool ~"
-    title: "Don't know what to put"
+    title: "Yeah you~"
 
 
 ---
