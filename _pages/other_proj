@@ -6,6 +6,6 @@ sitemap: true
 permalink: /otherproj/
 
 sidebar:
-  nav: "others"
+  nav: "odocs"
 
 ---
