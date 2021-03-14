@@ -1,5 +1,5 @@
 --- 
-title: "about me"
+title: "About me"
 layout: single
 excerpt: "things about me"
 sitemap: true
