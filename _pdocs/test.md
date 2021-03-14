@@ -1,6 +1,6 @@
 ---
 title: "test"
-permalink: /_pdocs/test/
+permalink: /pdocs/test/
 excerpt: "asfdsffaf"
 
 ---
