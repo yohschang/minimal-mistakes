@@ -56,13 +56,11 @@ sidebar:
 - optimizer : Adam (lr = 0.001)
 - environment : pytorch 1.6
 
-#### Input data
+### Input data
 - 3072 x 512 x 1 interferogram crop fom 3072 x 3072 image randomly
 - Data labeled using opencv selectROI 
   - to make it simple, use bbox to label data
 - Then turn bbox data into binary mask (sample and background)
-
-___
 
 ### Result
 ```!
@@ -86,14 +84,13 @@ Above image shows the process of pridiction using trained model. the whole prece
 ```
 
 
-
-
----
 ### Reference
 - vgg : https://github.com/chongwar/vgg16-pytorch
 - ASL : https://github.com/Alibaba-MIIL/ASL
 - fcn32 : https://github.com/sairin1202/fcn32-pytorch
 
+___
+---
 
 ## ICnet
 
