@@ -21,7 +21,7 @@ odocs:
     title : CUDA
     children: 
       - 
-        title: "cuda"
+        title: "Numerical refocus"
 #         url: /others/cuda/
   -
     title : Arduino
