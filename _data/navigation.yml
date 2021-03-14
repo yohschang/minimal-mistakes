@@ -24,7 +24,7 @@ others:
         title: "cuda"
         url: /others/cuda/
 
-docs: 
+pdocs: 
   - 
     title: Deep learning
     children: 
