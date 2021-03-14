@@ -45,7 +45,7 @@ docs:
         url: /py_segmentation/
       - 
         title: "Classification"
-        url: /test/
+        url: /docs/proja/
       - 
         title: "VAE, GAN and DANN"
       - 
