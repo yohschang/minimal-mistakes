@@ -12,6 +12,6 @@ sidebar:
 
 Other programming language and some research project, try to improve myself
 
-- CUDA
-- JAVA
-- arduino
+- [CUDA]()
+- [JAVA]()
+- [arduino]()
