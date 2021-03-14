@@ -1,3 +1,6 @@
+## newfile folder contain posts should be add to config.yaml first before assign its permenet address then add to collection(in config) to get the path of folder
+## the name of sidemenu are independent from folder name, but for different pages, the name of sidemenu should be different. add it to config(default) to default the whole page using same sidemenu 
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
