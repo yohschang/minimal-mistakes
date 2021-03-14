@@ -120,8 +120,8 @@ inorder to build a [faster](#Few-tips-to-improve-frame-rate) sementic segmentati
 - ICnet : https://arxiv.org/pdf/1704.08545.pdf
 
 ## Few tips to improve frame rate
-:::info 
-Since most time cost by loading data, following are few ways to reduce time consume of data loading 
+::: info 
+Since most time cost by loading data, following are few ways to reduce time consume of data loading
 :::
 - Data should be **storage in SSD** or the hard drive that runs pythn. Data in ssd can lead to 2x faster then in HDD
 
