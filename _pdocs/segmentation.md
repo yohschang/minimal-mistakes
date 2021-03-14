@@ -2,7 +2,10 @@
 title: "Semantic segmentation"
 permalink: /pdocs/segmentation/
 excerpt: "segmentation"
+sitemap: true
 
+sidebar:
+  nav: "docs"
 
 ---
 ##  Deep learning for interferogram segmentation using [FCN](#FCN) and [ICnet](#ICnet)
