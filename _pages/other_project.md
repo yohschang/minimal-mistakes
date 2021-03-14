@@ -1,11 +1,11 @@
---- 
+---
 title: "other projects"
-excerpt: "few projects"
 layout: single
+excerpt: "few projects"
 sitemap: true
-permalink: /otherproject/
+permalink: /otherproj/
 
 sidebar:
   nav: "odocs"
-  
- ---
+
+---
