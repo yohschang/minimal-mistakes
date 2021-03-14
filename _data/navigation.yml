@@ -44,7 +44,8 @@ docs:
         title: "Segmentation"
         url: /docs/segmentation/
       - 
-        title: "Classification"
+        title: "Classification11"
+        url: /pdocs/segmentation/
       - 
         title: "VAE, GAN and DANN"
       - 
