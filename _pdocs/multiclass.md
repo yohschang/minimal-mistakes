@@ -1,16 +1,14 @@
 ---
 title: "multiclass classification"
 permalink: /pdocs/multiclass/
-excerpt: "multiclass classificatio"
+excerpt: "Multiclass classification on brain CT"
 sitemap: true
 
 sidebar:
   nav: "docs"
 
 ---
-# Multiclass classification
 
-## Multiclass classification on brain CT
 In this project I use Multiclass classification to predict multiple type of brain injury for each patient with a set of slice CT image. 
 
 ## Data augmentation
