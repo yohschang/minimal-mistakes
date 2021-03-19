@@ -98,7 +98,7 @@ class SliceRNN(nn.Module):
     - By setting r->r+ it’s easy to emphasize positive samples
 
 ## Result
-**Because of the privacy, here only shows the score and the result in the course competition post on kaggle**
+**Because of the privacy, here only shows the score and the result of the course competition on kaggle**
 
 - F2 score : 0.783
 - ![](https://i.imgur.com/olmSxDx.jpg)
