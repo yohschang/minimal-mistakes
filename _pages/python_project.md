@@ -13,7 +13,7 @@ Here I listed the projects I've done or still working on using python, check out
 
 #### Deep learning
   - [Segmentation <fcn , ICnet>](https://yohschang.github.io/minimal-mistakes/pdocs/segmentation/)
-  - [Classification]()
+  - [Multiclass classification]()
   - [VAE, GAN and DANN]()
   - [Fewshot learning]()
  
