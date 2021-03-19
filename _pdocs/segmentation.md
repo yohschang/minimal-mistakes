@@ -105,6 +105,7 @@ inorder to build a [faster](#few-tips-to-improve-frame-rate) sementic segmentati
 ### Data augumentation 
 - To enhance the target region, multiple image had been average then subtract by every image 
 - Use opencv clahe do the histogram equalization 
+- flip image to enlarge data size
 
 ### TODO
 - [ ] Change pyrimid pooling structure to RNN for better sequence image segmentation 
