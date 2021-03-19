@@ -44,8 +44,8 @@ docs:
         title: "Segmentation"
         url: /pdocs/segmentation/
       - 
-        title: "Classification"
-        url: /pdocs/test/
+        title: "Multiclass classification"
+        url: /pdocs/segmentation/
       - 
         title: "VAE, GAN and DANN"
       - 
