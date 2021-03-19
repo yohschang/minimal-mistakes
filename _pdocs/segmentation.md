@@ -132,7 +132,7 @@ few ways to reduce time consume of data loading
 ```
 - Data should be **storage in SSD** or the hard drive that runs pythn. Data in ssd can lead to 2x faster then in HDD
 
-- **Use OPENCV2** instead of **PIL~(pretty slow)~** for image reading and simple transformation (easy to implement while loading test data which has no need to do complex transform)
+- **Use OPENCV2** instead of **PIL** ~~(pretty slow)~~  for image reading and simple transformation (easy to implement while loading test data which has no need to do complex transform)
 
 - **set num_workers > 0**, since data will preloaded to RAM while GPU training/testing. However if image data were storage *in HDD, larger num_worker might take even slower than num_workers=0*
 
