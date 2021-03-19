@@ -102,6 +102,10 @@ inorder to build a [faster](#few-tips-to-improve-frame-rate) sementic segmentati
 - Basic ICnet model and loss function from  https://github.com/liminn/ICNet-pytorch
 - Slightly modified the input size, and parameters of different resolution for loss calculation 
 
+### Data augumentation 
+- To enhance the target region, multiple image had been average then subtract by every image 
+- Use opencv clahe do the histogram equalization 
+
 ### TODO
 - [ ] Change pyrimid pooling structure to RNN for better sequence image segmentation 
     - in this project, the removal of pyrimid pooling layer only influnce the time consume to converge
@@ -127,7 +131,7 @@ few ways to reduce time consume of data loading
 ```
 - Data should be **storage in SSD** or the hard drive that runs pythn. Data in ssd can lead to 2x faster then in HDD
 
-- **Use OPENCV2** instead of PIL for image reading and simple transformation (easy to implement while loading test data which has no need to do complex transform)
+- **Use OPENCV2** instead of **PIL~(pretty slow)~** for image reading and simple transformation (easy to implement while loading test data which has no need to do complex transform)
 
 - **set num_workers > 0**, since data will preloaded to RAM while GPU training/testing. However if image data were storage *in HDD, larger num_worker might take even slower than num_workers=0*
 
