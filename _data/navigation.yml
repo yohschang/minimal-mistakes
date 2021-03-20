@@ -48,6 +48,7 @@ docs:
         url: /pdocs/multiclass/
       - 
         title: "VAE, GAN and DANN"
+        url: /pdocs/vaegandann/
       - 
         title: "fewshot learning"
   -
