@@ -9,7 +9,7 @@ sidebar:
   nav: "docs"
 
 ---
-Here I listed the projects I've done or still working on using python, check out the side bar on th left for details, also you can link to my github to get anything the can help you. 
+Here I listed the projects I've done or still working on using python, **check out the side bar on th left** for details, also you can link to my github to get anything the can help you. 
 
 #### Deep learning
   - Semantic Segmentation : [FCN](https://github.com/yohschang/Deep_learning/tree/main/fcn32) , [ICnet](https://github.com/yohschang/Deep_learning/tree/main/ICNet)
