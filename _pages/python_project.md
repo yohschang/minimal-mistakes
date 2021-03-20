@@ -14,7 +14,7 @@ Here I listed the projects I've done or still working on using python, check out
 #### Deep learning
   - [Segmentation <fcn , ICnet>](https://yohschang.github.io/minimal-mistakes/pdocs/segmentation/)
   - [Multiclass classification](https://yohschang.github.io/minimal-mistakes/pdocs/multiclass/)
-  - [VAE, GAN and DANN]()
+  - [VAE, GAN and DANN](https://yohschang.github.io/minimal-mistakes/pdocs/vaegandann/)
   - [Fewshot learning]()
  
 #### Algorithm for QPI and Computer vision
