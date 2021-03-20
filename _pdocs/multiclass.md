@@ -1,5 +1,5 @@
 ---
-title: "multiclass classification"
+title: "Multiclass classification"
 permalink: /pdocs/multiclass/
 excerpt: "Multiclass classification on brain CT"
 sitemap: true
