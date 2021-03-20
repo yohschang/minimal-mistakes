@@ -17,6 +17,7 @@ A variational autoencoder (VAE) is a type of neural network that learns to repro
 - The VAE contains two modules:
     - Encoder: Learn to predict the mean and std of the input images in the latent space.
     - Decoder: Reconstruct an image from a latent vector sampled from the latent space.
+    
 ```python   
 class VAE(nn.Module):
     def __init__(self):
@@ -41,7 +42,7 @@ class VAE(nn.Module):
 ```
 - Loss function
     - Mean square loss + Kdivergence
-```python
+```python =
 def vae_loss(recon_x, x, mu, logvar):
     recon_loss = F.mse_loss(recon_x.view(-1, 4096), x.view(-1, 4096), reduction='mean')
     kldivergence = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
