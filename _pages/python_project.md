@@ -13,7 +13,7 @@ Here I listed the projects I've done or still working on using python, **check o
 
 
 
-###### :point_down: :point_down: Link to Github page :point_down: :point_down:
+###### 👇 👇 Link to Github page 👇 👇
 #### Deep learning
   - Semantic Segmentation : [FCN](https://github.com/yohschang/Deep_learning/tree/main/fcn32) , [ICnet](https://github.com/yohschang/Deep_learning/tree/main/ICNet)
   - [Multiclass classification](https://github.com/yohschang/Deep_learning/tree/main/multiclass_classification)
