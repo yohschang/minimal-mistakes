@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 
 ---
-12121In this project I implement (Variational Autoencoder), GAN(Generative adversarial networks) and DANN(domain-adversarial neural network) using public database.
+In this project I implement (Variational Autoencoder), GAN(Generative adversarial networks) and DANN(domain-adversarial neural network) using public database.
 
 ## VAE
 A variational autoencoder (VAE) is a type of neural network that learns to reproduce its input, and also map data to latent space.
@@ -43,7 +43,7 @@ class VAE(nn.Module):
 ```
 - Loss function
     - Mean square loss + Kdivergence
-```python =
+```python
 def vae_loss(recon_x, x, mu, logvar):
     recon_loss = F.mse_loss(recon_x.view(-1, 4096), x.view(-1, 4096), reduction='mean')
     kldivergence = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
