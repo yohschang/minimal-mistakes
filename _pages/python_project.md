@@ -11,11 +11,11 @@ sidebar:
 ---
 Here I listed the projects I've done or still working on using python, check out the side bar on th left for details, also you can link to my github to get anything the can help you. 
 
-#### Deep learning
-  - [Segmentation <fcn , ICnet>](https://yohschang.github.io/minimal-mistakes/pdocs/segmentation/)
-  - [Multiclass classification](https://yohschang.github.io/minimal-mistakes/pdocs/multiclass/)
-  - [VAE, GAN and DANN](https://yohschang.github.io/minimal-mistakes/pdocs/vaegandann/)
-  - [Fewshot learning](https://yohschang.github.io/minimal-mistakes/pdocs/metalearn/)
+#### [Deep learning](https://github.com/yohschang/Deep_learning)
+  - Semantic Segmentation : [fcn](https://github.com/yohschang/Deep_learning/tree/main/fcn32) , [ICnet](https://github.com/yohschang/Deep_learning/tree/main/ICNet)
+  - [Multiclass classification](https://github.com/yohschang/Deep_learning/tree/main/multiclass_classification)
+  - [VAE, GAN and DANN](https://github.com/yohschang/Deep_learning/tree/main/VAE_GAN_DANN)
+  - [Fewshot learning](https://github.com/yohschang/Deep_learning/tree/main/fewshot_learning)
  
 #### Algorithm for QPI and Computer vision
   - [Phase retrival]()
