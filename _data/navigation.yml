@@ -51,6 +51,7 @@ docs:
         url: /pdocs/vaegandann/
       - 
         title: "fewshot learning"
+        url: /pdocs/metalearn/
   -
     title: QPI
     children: 
