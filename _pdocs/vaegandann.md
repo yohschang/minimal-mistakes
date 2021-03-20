@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 
 ---
-In this project I implement (VAE)[#vae](Variational Autoencoder), (GAN)[#gan](Generative adversarial networks) and (DANN)[#](domain-adversarial neural network) using public database.
+In this project I implement [VAE](#vae)(Variational Autoencoder), [GAN](#gan)(Generative adversarial networks) and [DANN](#dann)(domain-adversarial neural network) using public database.
 
 ## VAE
 A variational autoencoder (VAE) is a type of neural network that learns to reproduce its input, and also map data to latent space.
