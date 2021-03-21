@@ -55,13 +55,13 @@ docs:
   -
     title: QPI
     children: 
+      -
+        title: "Over view"
       - 
-        title: "Phase retrival"
+        title: "Phase retrival, Refocus and Realign"
         
       - 
-        title: "Numerical refocus"
-      - 
-        title: "Zernike fitting"
+        title: "Angle calculation"
       - 
         title: "3D reconstruction"
     
