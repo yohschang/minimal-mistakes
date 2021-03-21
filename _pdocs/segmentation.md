@@ -119,9 +119,7 @@ inorder to build a [faster](#few-tips-to-improve-frame-rate) sementic segmentati
     - In HDD : 11 fps
     - In SSD : 23 fps 
 
-![](https://i.imgur.com/5ZMollU.gif)
-
-![](https://i.imgur.com/orjWSl0.gif)
+![](https://i.imgur.com/NkAdAmS.gif)
 
 ### Reference
 - ICnet : https://arxiv.org/pdf/1704.08545.pdf
