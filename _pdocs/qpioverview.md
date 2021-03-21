@@ -13,7 +13,8 @@ sidebar:
 This part describe my research project which I use quantitative phase image method to record the motion of red blood cell flow in side microfludic device
 
 ```
-Here I briefly shows the process and the result, check out the sidebar on the left for detail and the links to source code 
+Here I briefly shows the process and the result, 
+check out the sidebar on the left for detail and the links to source code
 ```
 
 ## Optical setup
