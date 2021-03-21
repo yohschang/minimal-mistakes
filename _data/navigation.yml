@@ -56,10 +56,10 @@ docs:
     title: QPI
     children: 
       -
-        title: "Over view"
+        title: "Overview"
+        url: /pdocs/qpioverview/
       - 
         title: "Phase retrival, Refocus and Realign"
-        
       - 
         title: "Angle calculation"
       - 
