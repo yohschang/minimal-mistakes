@@ -29,6 +29,8 @@ Here I briefly shows the process and the result, check out the sidebar on the le
 ## Phase retrival, Refocus and Realign
 - In QPI we use **interferogram** to store the phase delay cause by different sample. Therefore, an algorithm is needed to retrive the quantitative information
 
+![](https://i.imgur.com/Jl3BfmY.png)
+
 - After retrival, an numerical refocus algorithm is using to calibrate the focus distance change during cell motion
 
 - Then I align all frames belong to each cell using center of mass, also unified the size and orientation of every frames
