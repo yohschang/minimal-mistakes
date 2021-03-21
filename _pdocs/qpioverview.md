@@ -43,4 +43,4 @@ Here I briefly shows the process and the result, check out the sidebar on the le
 - We use Fourier diffraction theory to do the reconstruction by mapping the frequency domain of each frame to 3d fourier space
 - TVmin and constraint are add to the result to remove artifact 
  
- ![](https://i.imgur.com/7IaPPoS.jpg)![](https://i.imgur.com/B7WTnLo.png)
+ ![](https://i.imgur.com/7IaPPoS.jpg) ![](https://i.imgur.com/bZ3mOE5.png)
