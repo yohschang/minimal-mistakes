@@ -60,6 +60,7 @@ docs:
         url: /pdocs/qpioverview/
       - 
         title: "Phase retrival, Refocus and Realign"
+        url: /pdocs/qpiprocess/
       - 
         title: "Angle calculation"
       - 
