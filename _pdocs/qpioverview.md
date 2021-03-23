@@ -28,7 +28,7 @@ check out the sidebar on the left for detail and the links to source code
      ![](https://i.imgur.com/NkAdAmS.gif)
 
 
-## Phase retrieval, Refocus and Realign
+## [Phase retrieval](https://yohschang.github.io/minimal-mistakes/pdocs/qpiprocess/#phase-retrieval), [Refocus](https://yohschang.github.io/minimal-mistakes/pdocs/qpiprocess/#refocus) and [Realign](https://yohschang.github.io/minimal-mistakes/pdocs/qpiprocess/#realign)
 - In QPI we use **interferogram** to store the phase delay cause by different sample. Therefore, an algorithm is needed to retrieve the quantitative information
 
 ![](https://i.imgur.com/Jl3BfmY.png)
