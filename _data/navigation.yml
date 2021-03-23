@@ -28,7 +28,7 @@ odocs:
     children: 
       -
         title: "Syringe pump"
-#         url: /others/cuda/
+        url: /odocs/pump/
   -
     title : JAVA
     children: 
