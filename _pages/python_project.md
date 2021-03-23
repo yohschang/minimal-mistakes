@@ -31,9 +31,6 @@ Here I listed the projects I've done or still working on using python, **check o
 #### Signal processing
   - [Signal process]()
 
-#### Simple algorithm
-  - [pretty simple]()
-
 Feel free to leave a comment
 
 ###### ~~Wait until I find out how to open comment function~~
