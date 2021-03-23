@@ -66,10 +66,10 @@ docs:
         url: /pdocs/zernike/
       - 
         title: "3D reconstruction"
-        url: /pdocs/3drecon/
+        url: /pdocs/webcrawler/
   -
     title: Web crawler
-    url: /pdocs/webcrawler/
+    url: /pdocs/3drecon/
     
 
   
