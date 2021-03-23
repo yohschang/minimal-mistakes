@@ -5,7 +5,7 @@ excerpt: "QPI project overview"
 sitemap: true
 
 sidebar:
-  nav: "docs"
+  nav: "odocs"
 
 ---
 
