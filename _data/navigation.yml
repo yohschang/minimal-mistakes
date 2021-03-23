@@ -68,9 +68,14 @@ docs:
         title: "3D reconstruction"
         url: /pdocs/3drecon/
   -
-    title: Web crawler
-    url: /pdocs/webcrawler/
-    
+   title: Other
+   children:
+      -
+        title: Web crawler
+        url: /pdocs/webcrawler/
+      -
+        title: Brownian motion simulation
+
 
   
 # docs:
