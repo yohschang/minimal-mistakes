@@ -28,12 +28,12 @@ check out the sidebar on the left for detail and the links to source code
      ![](https://i.imgur.com/NkAdAmS.gif)
 
 
-## Phase retrival, Refocus and Realign
-- In QPI we use **interferogram** to store the phase delay cause by different sample. Therefore, an algorithm is needed to retrive the quantitative information
+## Phase retrieval, Refocus and Realign
+- In QPI we use **interferogram** to store the phase delay cause by different sample. Therefore, an algorithm is needed to retrieve the quantitative information
 
 ![](https://i.imgur.com/Jl3BfmY.png)
 
-- After retrival, an numerical refocus algorithm is using to calibrate the focus distance change during cell motion
+- After retrieval, an numerical refocus algorithm is using to calibrate the focus distance change during cell motion
 
 ![](https://i.imgur.com/AaodwHP.png)
 
