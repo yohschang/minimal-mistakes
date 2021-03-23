@@ -98,3 +98,7 @@ For the last step of cell prepocessing, we use fourier diffraction theorem to do
         n_3D_bi[n_3D >= otsu_val]= 1
         self.dn_3D_bi = cupy.asarray(n_3D_bi) 
         ```
+## Result
+![](https://i.imgur.com/EB5H3kP.png)
+
+![](https://i.imgur.com/sD3cYTz.gif)
