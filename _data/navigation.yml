@@ -66,6 +66,7 @@ docs:
         url: /pdocs/zernike/
       - 
         title: "3D reconstruction"
+        url: /pdocs/3drecon/
   -
     title: Web crawler
     
