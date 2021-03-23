@@ -306,7 +306,7 @@ defaults:
 #_odocs
   - scope:
       path: ""
-      type: pdocs
+      type: odocs
     values:
       layout: single
       read_time: false
