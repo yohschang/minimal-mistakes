@@ -28,9 +28,6 @@ Here I listed the projects I've done or still working on using python, **check o
 
 #### [Web crawler]()
 
-#### Signal processing
-  - [Signal process]()
-
 Feel free to leave a comment
 
 ###### ~~Wait until I find out how to open comment function~~
