@@ -63,6 +63,7 @@ docs:
         url: /pdocs/qpiprocess/
       - 
         title: "Angle calculation"
+        url: /pdocs/zernike/
       - 
         title: "3D reconstruction"
   -
