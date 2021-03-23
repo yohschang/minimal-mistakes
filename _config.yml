@@ -147,6 +147,7 @@ include:
   - .htaccess
   - _pages
   - _pdocs
+  - _odocs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -302,3 +303,15 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+#_odocs
+  - scope:
+      path: ""
+      type: pdocs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "odocs"
