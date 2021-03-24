@@ -11,7 +11,7 @@ sidebar:
 
 - This project is the simulation of Brownian motion
 - Create particles class with different parameter represent by objects
-```python=
+```python
 class Particle:
     def __init__(self, x, y, vx, vy, radius=0.01, styles=None):
         self.r = np.array((x, y))
