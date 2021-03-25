@@ -118,5 +118,4 @@ try:
 except KeyboardInterrupt:
     ser.close()
     print('再見！')
-
 ```
