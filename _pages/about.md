@@ -19,12 +19,11 @@ sidebar:
   <img width="230" height="190" src="https://i.imgur.com/OpuBLnm.png">
 </p>
 <h1 align="center" style="font-size:200%;">About</h1>
-
+---
 I am Yu Hsiang, recently received a master degree from National Taiwan University, Taipei, Taiwan. This site is built to introduce myself and collect all the projects I’ve done. 
 
-<ins><h1 align="center" style="font-size:200%;">Education</h1></ins>
+<h1 align="center" style="font-size:200%;">Education</h1>
 ---
-
 - **Nationl Taiwan University, Taiwan**  <2019~2022> <br>
    <ins>Graduate Institute of Biomedical Electronics and Bioinformatics</ins>
   - Quantitative Phase Microscopy
@@ -44,7 +43,7 @@ I am Yu Hsiang, recently received a master degree from National Taiwan Universit
   - Laboratory exchange student
 
 <h1 align="center" style="font-size:200%;">Experience</h1>
-
+---
 - **MOXA inc., New Taipei city, Taiwan** <2021.7 ~ 2021.8> <br>
 <ins>Technical Support</ins>
   - Linux OS database and using guide establish.
@@ -52,7 +51,7 @@ I am Yu Hsiang, recently received a master degree from National Taiwan Universit
   - Taking meeting minutes of Europe, China, etc., region meeting.
 
 <h1 align="center" style="font-size:200%;">Skills</h1>
-
+---
 - **Language**
     - TOEFL 101/120
 - **Programming** 
@@ -67,5 +66,5 @@ I am Yu Hsiang, recently received a master degree from National Taiwan Universit
     - Java [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/split_money)
       
 <h1 align="center" style="font-size:200%;">Conference and publication</h1>
-
+---
 - **Red Blood Cell Morphology Explored with High-Throughput Label-Free Three-Dimensional Digital Holographic Microscopy**, Yu-Hsiang Chang, Yang-Hsien Lin, Kung-Bin Sung, OPTIC, 2020
