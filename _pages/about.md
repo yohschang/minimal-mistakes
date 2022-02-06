@@ -45,27 +45,25 @@ I am Yu Hsiang, recently receive master degree from National Taiwan University, 
 
 - **MOXA inc., New Taipei city, Taiwan** <2021.7 ~ 2021.8> <br>
 <ins>Technical Support</ins>
+  - Linux OS database and using guide establish.
+  - Complete the alpha test of upcoming products, provide the potential problem to product department.
+  - Taking meeting minutes of Europe, China, etc., region meeting.
 
-  
-## Conference and publication
+<h1 align="center" style="font-size:300%;">Skills</font size></h1>
+
+- **Language**
+    - TOEFL 101/120
+- **Programming** 
+    - Python 
+      - Deep learning in Computer vision (Pytorch) [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/Deep_learning)
+      - CuPy [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/RBC_analysis/blob/master/3d_recon_cupy.py)
+      - Signal processing (Numpy) [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang)
+      - Django (REST framework) [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/split_money)
+    - JavaScript
+      - React Native [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/split_money)
+    - C++ [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/refocus_cuda)
+    - Java [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/split_money)
+      
+<h1 align="center" style="font-size:300%;">Conference and publication</font size></h1>
+
 - **Red Blood Cell Morphology Explored with High-Throughput Label-Free Three-Dimensional Digital Holographic Microscopy**, Yu-Hsiang Chang, Yang-Hsien Lin, Kung-Bin Sung, OPTIC, 2020
-
-
-## Skills
-> Check out other pages above for details of the following projects
-
-- Programming 
-    - python 
-      - Deep learning
-      - Computer vision
-      - CuPy
-      - Signal processing
-    - CUDA 
-      - Basic kernel building for CuPy and c++ execution
-    - Java
-      - Just start learning
-~~Move toward the goal of 10 grand per year~~
-
-- Cell culture
-- Design of Optical Path and Mechanism for QPM
-
