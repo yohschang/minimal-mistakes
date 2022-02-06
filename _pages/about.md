@@ -6,15 +6,15 @@ sitemap: true
 permalink: /about/
 
 sidebar: 
-  - text: "No gift for you"
-    title: "Hey you"
-  - text: "This widget looks cool ~"
-    title: "Yeah you~"
+  - text: "myself to you"
+    title: "Let me introduce"
+  - text: "If you are interested"
+    title: "Leave a message"
 
 
 ---
 
-I am Yu Hsiang, a graduate student at National Taiwan University, Taipei, Taiwan. This site is currently built to collect all the projects I’ve done. 
+I am Yu Hsiang, recently receive master degree from National Taiwan University, Taipei, Taiwan. This site is built to introduce myself and collect all the projects I’ve done. 
 
 ## Education
 - National Tsing Hua University <2015~2019>
