@@ -17,11 +17,11 @@ sidebar:
 <p align="center">
   <img width="230" height="190" src="https://i.imgur.com/OpuBLnm.png">
 </p>
-<h1 align="center" style="font-size:300%;">About</h1>
+<h1 align="center" style="font-size:200%;">About</h1>
 
 I am Yu Hsiang, recently receive master degree from National Taiwan University, Taipei, Taiwan. This site is built to introduce myself and collect all the projects I’ve done. 
 
-<h1 align="center" style="font-size:300%;">Education</font size></h1>
+<h1 align="center" style="font-size:200%;">Education</font size></h1>
 
 - **Nationl Taiwan University, Taiwan**  <2019~2022> <br>
    <ins>Graduate Institute of Biomedical Electronics and Bioinformatics</ins>
@@ -41,7 +41,7 @@ I am Yu Hsiang, recently receive master degree from National Taiwan University, 
   <ins>Department of Biomedical Engineering</ins>
   - Laboratory exchange student
 
-<h1 align="center" style="font-size:300%;">Experience</h1>
+<h1 align="center" style="font-size:200%;">Experience</h1>
 
 - **MOXA inc., New Taipei city, Taiwan** <2021.7 ~ 2021.8> <br>
 <ins>Technical Support</ins>
@@ -49,7 +49,7 @@ I am Yu Hsiang, recently receive master degree from National Taiwan University, 
   - Complete the alpha test of upcoming products, provide the potential problem to product department.
   - Taking meeting minutes of Europe, China, etc., region meeting.
 
-<h1 align="center" style="font-size:300%;">Skills</h1>
+<h1 align="center" style="font-size:200%;">Skills</h1>
 
 - **Language**
     - TOEFL 101/120
@@ -64,6 +64,6 @@ I am Yu Hsiang, recently receive master degree from National Taiwan University, 
     - C++ [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/refocus_cuda)
     - Java [<img width="18" height="18" src="https://img.icons8.com/windows/32/000000/link.png"/>](https://github.com/yohschang/split_money)
       
-<h1 align="center" style="font-size:300%;">Conference and publication</h1>
+<h1 align="center" style="font-size:200%;">Conference and publication</h1>
 
 - **Red Blood Cell Morphology Explored with High-Throughput Label-Free Three-Dimensional Digital Holographic Microscopy**, Yu-Hsiang Chang, Yang-Hsien Lin, Kung-Bin Sung, OPTIC, 2020
