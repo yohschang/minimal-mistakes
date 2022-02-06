@@ -21,7 +21,7 @@ sidebar:
 
 I am Yu Hsiang, recently receive master degree from National Taiwan University, Taipei, Taiwan. This site is built to introduce myself and collect all the projects I’ve done. 
 
-<h1 align="center" style="font-size:200%;">Education</font size></h1>
+<h1 align="center" style="font-size:200%;">Education</h1>
 
 - **Nationl Taiwan University, Taiwan**  <2019~2022> <br>
    <ins>Graduate Institute of Biomedical Electronics and Bioinformatics</ins>
