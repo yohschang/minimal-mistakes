@@ -1,6 +1,7 @@
 --- 
 title: ""
 layout: single
+classes: wide
 excerpt: "things about me"
 sitemap: true
 permalink: /about/
