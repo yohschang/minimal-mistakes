@@ -17,8 +17,10 @@ sidebar:
 
 <p align="center">
   <img width="230" height="190" src="https://i.imgur.com/OpuBLnm.png"> </br>
-    [<img width="30" height="30" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>](r08945011@ntu.edu.tw) [<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/changyuhs/) [<img width="30" height="30" src="https://img.icons8.com/material-rounded/24/000000/github.png"/>](https://github.com/yohschang)
 </p>
+
+[<img width="30" height="30" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>](r08945011@ntu.edu.tw) [<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/changyuhs/) [<img width="30" height="30" src="https://img.icons8.com/material-rounded/24/000000/github.png"/>](https://github.com/yohschang)
+
 
 
 
