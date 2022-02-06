@@ -10,7 +10,7 @@ sidebar:
   - text: "myself to you"
     title: "Let me introduce"
   - text: "If you are interested"
-    title: "Leave a message"
+    title: "Leave a message <img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>"
 
 
 ---
