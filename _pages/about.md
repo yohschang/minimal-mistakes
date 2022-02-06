@@ -22,7 +22,7 @@ sidebar:
 <!-- [<img width="30" height="30" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>](r08945011@ntu.edu.tw) [<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/changyuhs/) [<img width="30" height="30" src="https://img.icons8.com/material-rounded/24/000000/github.png"/>](https://github.com/yohschang) -->
 
 <p align="center">
-    <a href="r08945011@ntu.edu.tw">
+    <a href="mailto:r08945011@ntu.edu.tw">
        <img width="30" height="30" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>
     </a>
 </p>
