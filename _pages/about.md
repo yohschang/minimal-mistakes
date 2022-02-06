@@ -21,7 +21,7 @@ sidebar:
 <h1 align="center" style="font-size:200%;">About</h1>
 ---
 I am Yu Hsiang, recently received a master degree from National Taiwan University, Taipei, Taiwan. This site is built to introduce myself and collect all the projects I’ve done. 
-[<img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>](https://www.linkedin.com/in/changyuhs/)
+[<img width="30" height="30" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/>](https://www.linkedin.com/in/changyuhs/)
 
 <h1 align="center" style="font-size:200%;">Education</h1>
 ---
